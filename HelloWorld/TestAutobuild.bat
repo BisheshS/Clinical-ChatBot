@@ -1,0 +1,3 @@
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\MSBuild.exe C:\Users\320052129\ChatBot\Clinical-ChatBot\HelloWorld\HelloWorld.vcxproj
+echo Project is building...
+C:\Users\320052129\ChatBot\Clinical-ChatBot\HelloWorld\Debug\HelloWorld.exe
